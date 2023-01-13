@@ -5,7 +5,7 @@ here are some of the codespace projects that i'm still working on😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
 <p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
 
-![linkedin](https://img.shields.io/badge/<Badge Text>-<#0A66C2>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![<linkedin>](https://img.shields.io/badge/<Badge Text>-<blue>?style=for-the-badge&logo=<linkedin>&logoColor=<#99>)
 
 
 <!--
