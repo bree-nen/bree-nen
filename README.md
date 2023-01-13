@@ -2,8 +2,8 @@
 
 
 here are some of the codespace projects that i completed 😀
-###-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/
-###-Resume https://bree-nen.github.io/update-of-my-resume/
+<p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
+<p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
 
 <!--
 **bree-nen/bree-nen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
