@@ -5,7 +5,8 @@ here are some of the codespace projects that i'm still working on😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
 <p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
 
-![<linkedin>](https://www.linkedin.com/in/britney-nenwalwi-5b5898240/)<Linkedin>-<blue>?style=for-the-badge&logo=<linkedin>&logoColor=<blue>)
+![linkedin](https://img.shields.io/badge/<Badge Text>-<#0A66C2>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 <!--
 **bree-nen/bree-nen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
