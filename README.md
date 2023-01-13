@@ -1,7 +1,7 @@
 ### Hi,i'm Britney👋
 
 
-here are some of the codespace projects that i completed 😀
+here are some of the codespace projects that i'm still working on😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
 <p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
 
