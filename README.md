@@ -2,8 +2,9 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
+![FXPs](https://user-images.githubusercontent.com/99203626/212472374-3fab3beb-26d3-4672-b447-6b0cffe094f9.gif)
 
-![6tXM](https://user-images.githubusercontent.com/99203626/212472290-2f180c5d-b44f-44e1-80e4-b1b523e91107.gif)
+
 
 
 ![372y](https://user-images.githubusercontent.com/99203626/212472248-fc0eb460-88d7-4a55-84c4-d46c892e3224.gif)
