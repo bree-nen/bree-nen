@@ -2,7 +2,7 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
-<img align="left" width"200" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp?cid=6c09b95240335a3f1ce6a09ce57ca1fdfe73db2291fc0ac0&rid=giphy.webp&ct=g">
+<img align="left" width"200" src=" https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp?cid=6c09b95240335a3f1ce6a09ce57ca1fdfe73db2291fc0ac0&rid=giphy.webp&ct=g ">
 
 here are some of the codespace projects😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
