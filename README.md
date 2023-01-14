@@ -1,6 +1,6 @@
 ### Hi,i'm Britney👋
 
-<h3>A developer from South Africa Johannesburg</h3>
+<h3>entry-level software developer|matriculant| computer science student</h3>
 
 here are some of the codespace projects that i'm still working on😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
@@ -12,12 +12,21 @@ here are some of the codespace projects that i'm still working on😀
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning MySql
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
+ 
+ <h3>Skills</h3>
+ <ul> 
+  <li>Html</li>
+  <li>Java</li>
+   <li>PHP</li>
+   <li>CSS</li>
+   <li>Vue</li>
+</ul>
