@@ -2,7 +2,9 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
-![FXPs](https://user-images.githubusercontent.com/99203626/212472202-91fdcd5f-d00e-4dc0-bd3b-e69c049b8486.gif)
+
+
+![372y](https://user-images.githubusercontent.com/99203626/212472248-fc0eb460-88d7-4a55-84c4-d46c892e3224.gif)
 
 
 here are some of the codespace projects 🌈 😀
