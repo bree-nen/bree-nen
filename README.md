@@ -1,6 +1,6 @@
 ### Hi,i'm Britney👋🦋
 
-<h3>entry-level software developer|matriculant| computer science student</h3>
+<h3>entry-level software developer| computer science student</h3>
 
 
 ![372y](https://user-images.githubusercontent.com/99203626/212472248-fc0eb460-88d7-4a55-84c4-d46c892e3224.gif)
