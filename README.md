@@ -2,7 +2,7 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
-<div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img  align="left" width"200" src="https://giphy.com/gifs/looneytunesworldofmyhem-world-of-mayhem-loney-tunes-Itwom-RbDKaczqWovlugyJmW">
 
 here are some of the codespace projects😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
