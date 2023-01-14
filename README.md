@@ -2,10 +2,7 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
-
-
-
-https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429
+<div class="tenor-gif-embed" data-postid="25279321" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cyrentec-sci-fi-owl-white-faced-scops-owl-anthro-gif-25279321">Cyrentec Sci Fi Sticker</a>from <a href="https://tenor.com/search/cyrentec-stickers">Cyrentec Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 here are some of the codespace projects 🌈 😀
 <p align="left">-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
