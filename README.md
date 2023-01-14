@@ -2,10 +2,8 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
-<img align="left" width"200" src=" https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp?cid=6c09b95240335a3f1ce6a09ce57ca1fdfe73db2291fc0ac0&rid=giphy.webp&ct=g ">
-
 here are some of the codespace projects😀
-<p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
+<p align="left">-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
 <p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
 
 
@@ -32,3 +30,8 @@ Here are some ideas to get you started:
    <li>CSS</li>
    <li>Vue</li>
 </ul>
+
+<h3>connect with me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/britney-nenwalwi-5b5898240/">Linkedin</a>
+</p>
