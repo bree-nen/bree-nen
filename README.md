@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 <h3> 📫 How to reach me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/britney-nenwalwi-5b5898240/">Linkedin</a>
+<a href="https://www.linkedin.com/in/britney-nenwalwi-5b5898240/"> 📝 Linkedin</a>
 </p>
