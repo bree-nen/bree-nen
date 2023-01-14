@@ -1,5 +1,6 @@
 ### Hi,i'm Britney👋
 
+<h3>A developer from South Africa Johannesburg</h3>
 
 here are some of the codespace projects that i'm still working on😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
