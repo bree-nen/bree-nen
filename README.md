@@ -2,6 +2,11 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
+
+
+https://user-images.githubusercontent.com/99203626/212471616-9c01a5f3-e5a7-4bec-a2e9-deb5999368db.mp4
+
+
 here are some of the codespace projects 🌈 😀
 <p align="left">-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
 <p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
