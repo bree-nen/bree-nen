@@ -2,6 +2,9 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
+![15X3](https://user-images.githubusercontent.com/99203626/212472282-231ada93-1fec-4c0b-b082-2e12b5d30a97.gif)
+
+![6tXM](https://user-images.githubusercontent.com/99203626/212472290-2f180c5d-b44f-44e1-80e4-b1b523e91107.gif)
 
 
 ![372y](https://user-images.githubusercontent.com/99203626/212472248-fc0eb460-88d7-4a55-84c4-d46c892e3224.gif)
@@ -40,3 +43,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/britney-nenwalwi-5b5898240/"> 📝 Linkedin</a>
 </p>
+
+![1oUQ](https://user-images.githubusercontent.com/99203626/212472317-0f8aa3c5-ff21-4ebb-a9d0-fe6b2cde0d19.gif)
+
