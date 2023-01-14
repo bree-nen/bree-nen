@@ -35,10 +35,11 @@ Here are some ideas to get you started:
    <li>Vue</li>
 </ul>
 
+![1oUQ](https://user-images.githubusercontent.com/99203626/212472317-0f8aa3c5-ff21-4ebb-a9d0-fe6b2cde0d19.gif)
+
 <h3> 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/britney-nenwalwi-5b5898240/"> 📝 Linkedin</a>
 </p>
 
-![1oUQ](https://user-images.githubusercontent.com/99203626/212472317-0f8aa3c5-ff21-4ebb-a9d0-fe6b2cde0d19.gif)
 
