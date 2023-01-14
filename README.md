@@ -2,7 +2,7 @@
 
 <h3>entry-level software developer|matriculant| computer science student</h3>
 
-here are some of the codespace projects that i'm still working on😀
+here are some of the codespace projects😀
 <p>-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
 <p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
 
