@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  <h3>Skills</h3>
  <ul> 
   <li>Html</li>
-  <li>Java</li>
-   <li>PHP</li>
+  <li>JavaScript</li>
+   
    <li>CSS</li>
    <li>Vue</li>
 </ul>
