@@ -10,6 +10,7 @@
 <p align="left">-world-clock https://universaltime.netlify.app/ </p>
 <p>-English-poem-generator https://poemnest.netlify.app/ </p>
 <p>-Weather_App https://meteo-global.netlify.app/ </p>
+<p>-Mini-weather-app https://weather-app-shec.netlify.app/ </p>
  
 
 
