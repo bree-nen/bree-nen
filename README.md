@@ -7,12 +7,12 @@
 
 
 Here are some of the Shecodes projects☄️
-<p align="right">-world-clock https://universaltime.netlify.app/ </p>
+<p align="left">-world-clock https://universaltime.netlify.app/ </p>
 <p>-English-poem-generator https://poemnest.netlify.app/ </p>
 <p>-Weather_App https://meteo-global.netlify.app/ </p>
  
 Here are some of the Codespace projects 🌈 
-<p align="right">-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
+<p align="left">-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
 <p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![1oUQ](https://user-images.githubusercontent.com/99203626/212472317-0f8aa3c5-ff21-4ebb-a9d0-fe6b2cde0d19.gif)
 
 <h3> 📫 How to reach me:</h3>
-<p align="right">
+<p align="left">
 <a href="https://www.linkedin.com/in/britney-nenwalwi-02p200209/"> 📝 Linkedin</a>
 </p>
 
