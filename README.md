@@ -36,7 +36,9 @@ Here are some ideas to get you started:
   <li>JavaScript</li>
    
    <li>CSS</li>
-   <li>Vue</li>
+   <li>API</li>
+   <li>Hosting</li>
+   <li>AI</li>
 </ul>
 
 ![1oUQ](https://user-images.githubusercontent.com/99203626/212472317-0f8aa3c5-ff21-4ebb-a9d0-fe6b2cde0d19.gif)
