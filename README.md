@@ -1,19 +1,17 @@
 ### Hi, I'm Britney👋but you can call me Bree😉.
 
-<h3>entry-level software developer| Bachelors degree holder in computer science</h3>
+<h3>entry-level software developer| Bachelor's degree in computer science</h3>
 
 
 ![372y](https://user-images.githubusercontent.com/99203626/212472248-fc0eb460-88d7-4a55-84c4-d46c892e3224.gif)
 
 
-<h3>Here are some of the Shecodes projects☄️</h3>
+<h3>🌱Here are some of the Shecodes projects</h3>
 <p align="left">-world-clock https://universaltime.netlify.app/ </p>
 <p>-English-poem-generator https://poemnest.netlify.app/ </p>
 <p>-Weather_App https://meteo-global.netlify.app/ </p>
  
-<h3>Here are some of the Codespace projects 🌈 </h3>
-<p align="left">-Todo SPA  https://bree-nen.github.io/To-do-list-SPA/ </p>
-<p>-Resume https://bree-nen.github.io/update-of-my-resume/ </p>
+
 
 
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- <h3>Skills</h3>
+ <h3>✨Skills</h3>
  <ul> 
   <li>Html</li>
   <li>JavaScript</li>
