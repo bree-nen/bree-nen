@@ -1,4 +1,4 @@
-### Hi, I'm Britney👋but you can call me Bree😉.
+### Hi, I'm Britney👋but you can call me Bree😉💜.
 
 <h3>entry-level software developer| Bachelor's degree in computer science</h3>
 
