@@ -5,13 +5,12 @@
 
 ![372y](https://user-images.githubusercontent.com/99203626/212472248-fc0eb460-88d7-4a55-84c4-d46c892e3224.gif)
 
-
-<h3>🌱Here are some of the Shecodes projects</h3>
-<p align="left">-world-clock https://universaltime.netlify.app/ </p>
-<p>-English-poem-generator https://poemnest.netlify.app/ </p>
-<p>-Weather_App https://meteo-global.netlify.app/ </p>
-<p>-Mini-weather-app https://weather-app-shec.netlify.app/ </p>
- 
+<!--   ADD MY PORTFOLIO LINK
+<h3>🌱Check out some of my projects on my portfolio</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/britney-nenwalwi-02p200209/"> 💞✨ My Portfolio</a>
+</p>
+ -->
 
 
 
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 - ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
--->
+
  
  <h3>✨Skills</h3>
  <ul> 
@@ -41,6 +40,7 @@ Here are some ideas to get you started:
    <li>Hosting</li>
    <li>AI</li>
 </ul>
+-->
 
 ![1oUQ](https://user-images.githubusercontent.com/99203626/212472317-0f8aa3c5-ff21-4ebb-a9d0-fe6b2cde0d19.gif)
 
