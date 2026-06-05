@@ -54,9 +54,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=180&section=header" />
 </p>
-
 
 <h1 align="center">
   ✨ Hi, world
