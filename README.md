@@ -54,31 +54,28 @@ Here are some ideas to get you started:
 -->
 
 
-✨ Hi, world
-💻 Frontend Developer | React Builder | UI Designer in progress
+<h1 align="center">
+  ✨ Hi, world
+</h1>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F77AA1&center=true&vCenter=true&width=600&lines=Entry-level+Software+Developer+💻;Bachelor's+Degree+in+Computer+Science;Frontend+Developer+in+progress;Building+modern+React+apps+✨" />
+</p>
+<br>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F77AA1&center=true&vCenter=true&width=500&lines=Building+modern+React+apps;Turning+ideas+into+real+projects;Frontend+Developer+in+progress;MovieFlix+%7C+Portfolio+%7C+UI+Experiments" /> </p>
-
-🌸 About Me
-✨ I’m a Computer Science graduate passionate about building clean and modern web experiences.
-🎬 I enjoy creating Netflix-style UI projects using React and APIs.
-💡 I focus on turning ideas into real, interactive applications.
+<br>
+<h2>🌸 About Me</h2>
+✨ I’m a Computer Science graduate passionate about building clean and modern web experiences.<br>
+🎬 I enjoy creating Netflix-style UI projects using React and APIs.<br>
+💡 I focus on turning ideas into real, interactive applications.<br>
 
 ⚒️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,netlify,vscode" /> </p>
-
-
-🔥 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" /> </p>
-💫 Currently Learning
-Advanced React patterns ⚛️
-Backend development basics 🌐
-UI/UX design systems 🎨
-Building production-ready apps 🚀
+<br>
 
 🌐 Connect With Me
-<p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://your-portfolio-link.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-F77AA1?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://github.com/bree-nen"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://bree-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-F77AA1?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
 
-💖 Closing
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F77AA1&height=120&section=footer"/> </p>
+
 
