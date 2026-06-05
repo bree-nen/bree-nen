@@ -53,17 +53,23 @@ Here are some ideas to get you started:
 
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=180&section=header" />
-</p>
 
+
+<div style="background-color:#ffe6f0; padding:20px; border-radius:20px;">
+  
 <h1 align="center">
   ✨ Hi, world
 </h1>
-<br>
+
 <h3 align="center">
   Entry-level Software Developer 💻 | Bachelor's Degree in Computer Science 🎓
 </h3>
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F77AA1&center=true&vCenter=true&width=500&lines=Building+modern+React+apps;Turning+ideas+into+real+projects;Frontend+Developer+in+progress;MovieFlix+%7C+Portfolio+%7C+UI+Experiments" />
+</p>
+
+</div>
 <br>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F77AA1&center=true&vCenter=true&width=500&lines=Building+modern+React+apps;Turning+ideas+into+real+projects;Frontend+Developer+in+progress;MovieFlix+%7C+Portfolio+%7C+UI+Experiments" /> </p>
