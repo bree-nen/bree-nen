@@ -55,14 +55,13 @@ Here are some ideas to get you started:
 
 
 
-<div style="background-color:#ffe6f0; padding:20px; border-radius:20px;">
   
 <h1 align="center">
-  ✨ Hi, world
+  ✨ 🎀 Hi, world
 </h1>
 
 <h3 align="center">
-  Entry-level Software Developer 💻 | Bachelor's Degree in Computer Science 🎓
+  Entry-level Software Developer 💻 | Computer Science 🎓
 </h3>
 <br>
 <p align="center">
