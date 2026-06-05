@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 ✨ I’m a Computer Science graduate passionate about building clean and modern web experiences.<br>
 🎬 I enjoy creating Netflix-style UI projects using React and APIs.<br>
 💡 I focus on turning ideas into real, interactive applications.<br>
-
-⚒️ Tech Stack
+<br>
+<h2>⚒️ Tech Stack</h2>
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,netlify,vscode" /> </p>
 <br>
 
