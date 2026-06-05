@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 
 -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif" width="100%" />
+</p>
+
 
 <h1 align="center">
   ✨ Hi, world
