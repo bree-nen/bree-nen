@@ -69,10 +69,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F77AA1&center=true&vCenter=true&width=500&lines=Building+modern+React+apps;Turning+ideas+into+real+projects;Frontend+Developer+in+progress;MovieFlix+%7C+Portfolio+%7C+UI+Experiments" />
 </p>
 
-</div>
-<br>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F77AA1&center=true&vCenter=true&width=500&lines=Building+modern+React+apps;Turning+ideas+into+real+projects;Frontend+Developer+in+progress;MovieFlix+%7C+Portfolio+%7C+UI+Experiments" /> </p>
 <br>
 <h2>🌸 About Me</h2>
 ✨ I’m a Computer Science graduate passionate about building clean and modern web experiences.<br>
