@@ -58,9 +58,9 @@ Here are some ideas to get you started:
   ✨ Hi, world
 </h1>
 <br>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F77AA1&center=true&vCenter=true&width=600&lines=Entry-level+Software+Developer+💻;Bachelor's+Degree+in+Computer+Science;Frontend+Developer+in+progress;Building+modern+React+apps+✨" />
-</p>
+<h3 align="center">
+  Entry-level Software Developer 💻 | Bachelor's Degree in Computer Science 🎓
+</h3>
 <br>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F77AA1&center=true&vCenter=true&width=500&lines=Building+modern+React+apps;Turning+ideas+into+real+projects;Frontend+Developer+in+progress;MovieFlix+%7C+Portfolio+%7C+UI+Experiments" /> </p>
